@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrew-a-a" alt="andrew-a-a" /></a> </p>
 
-- 🎓 Sofware Enginner graduated from Faculty of Computer and Information Sciences - Ain Shams Universiy - Egypt
+- 🎓 Sofware Enginner graduated from Faculty of Computer and Information Sciences - Ain Shams University - Egypt
 
 - 📫 How to reach me **andrew.adel.a@outlook.com**
 
